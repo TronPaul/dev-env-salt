@@ -11,7 +11,7 @@ Usage
 
 * Run (as root):
 
-    $ init.sh
+    $ ./init.sh
 
 * Run (as root):
 
