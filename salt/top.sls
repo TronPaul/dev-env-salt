@@ -4,3 +4,5 @@ base:
     - python-dev
     - lein
     - tmux
+    - powerline
+    - bash
